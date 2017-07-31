@@ -1,0 +1,3 @@
+#!/bin/bash
+cd "/Volumes/Disk#1/Users/abhineetraj/Desktop/Xcode 8"
+ssh -i instagram.pem ubuntu@ec2-54-210-6-14.compute-1.amazonaws.com
